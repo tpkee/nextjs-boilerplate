@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "NextJs Boilerplate",
+    "description": "Based on https://github.com/ixartz/Next-js-Boilerplate"
+  },
+  "common": {
+    "hello_message": "Hello there, {name}!"
+  }
+}
